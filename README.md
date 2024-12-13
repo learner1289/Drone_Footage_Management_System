@@ -1,2 +1,3 @@
 # Drone_Footage_Management_System
-'Drone Footage Management System' project follows 4 pillars of Object Oriented Programming which are – Encapsulation, Inheritance, Polymorphism and Abstraction.
+'Drone Footage Management System' connects drone owners with content creators or vloggers. Creators who don't own drones can buy high-quality aerial footage to improve their videos. Drone owners can upload and sell their footage, earning money from their recordings. The system benefits both sides by making it easy to buy and sell drone footage. It offers features like video approval, payment processing, and secure logins, ensuring smooth transactions and a user-friendly experience. This platform helps creators and drone owners work together efficiently.
+This project follows 4 pillars of Object Oriented Programming which are – Encapsulation, Inheritance, Polymorphism and Abstraction.
